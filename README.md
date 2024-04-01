@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hello, I am Aaron Meighoo, a Software Engineering student at TripleTen as of January 18 2024
 
+## Projects on GitHub Pages
+- [Coffee Shop](https://aar7.github.io/se_project_coffeeshop/)
+- Currently working on [Around the U.S.](https://aar7.github.io/se_project_aroundtheus/)
+
+  ## Skills
+  - HTML5
+  - CSS3
+  - Intermediate Javascript
+  - Responsive Design
 <!--
 **Aar7/Aar7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
