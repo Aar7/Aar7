@@ -9,6 +9,7 @@
   - CSS3
   - Intermediate Javascript
   - Responsive Design
+  - Front-End Development
 <!--
 **Aar7/Aar7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
