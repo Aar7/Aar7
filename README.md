@@ -2,7 +2,7 @@
 
 ## Projects on GitHub Pages
 - [Coffee Shop](https://aar7.github.io/se_project_coffeeshop/)
-- Currently working on [Around the U.S.](https://aar7.github.io/se_project_aroundtheus/)
+- [Around the U.S.](https://aar7.github.io/se_project_aroundtheus/)
 
   ## Skills
   - HTML5
